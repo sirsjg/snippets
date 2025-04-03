@@ -425,7 +425,7 @@ module.exports = {
 
 // If running this file directly, generate an example
 if (require.main === module) {
-  const exampleCode = `console.log("It's that SIMPLE?");`;
+  const exampleCode = `console.log("It's that simple?");`;
 
   generateCodeImage(exampleCode, {
     backgroundColor: "#ff3366",
