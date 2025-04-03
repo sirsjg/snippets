@@ -1,8 +1,4 @@
-[![npm version](https://img.shields.io/npm/v/code-snippet-image-generator.svg)](https://www.npmjs.com/package/code-snippet-image-generator)
-[![License: GNU](https://img.shields.io/badge/License-GNU-yellow.svg)](https://opensource.org/licenses/GNU)
-<!-- [![npm downloads](https://img.shields.io/npm/dm/code-snippet-image-generator.svg)](https://www.npmjs.com/package/code-snippet-image-generator) -->
-<!-- [![GitHub issues](https://img.shields.io/github/issues/sirsjg/code-snippet-image-generator.svg)](https://github.com/sirsjg/snippets/issues)
-[![Build Status](https://img.shields.io/github/workflow/status/sirsjg/snippets/CI)](https://github.com/sirsjg/code-snippet-image-generator/actions) -->
+[![npm version](https://img.shields.io/npm/v/code-snippet-image-generator.svg)](https://www.npmjs.com/package/code-snippet-image-generator) [![License: GNU](https://img.shields.io/badge/License-GNU-yellow.svg)](https://opensource.org/licenses/GNU) [![GitHub issues](https://img.shields.io/github/issues/sirsjg/snippets.svg)](https://github.com/sirsjg/snippets/issues) [![Build Status](https://img.shields.io/github/actions/workflow/status/sirsjg/snippets/npm-publish.yml?branch=main)](https://github.com/sirsjg/snippets/actions)
 
 # Code Snippet Image Generator
 
