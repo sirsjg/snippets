@@ -21,6 +21,7 @@
   "bugs": {
     "url": "https://github.com/sirsjg/snippets/issues"
   },
+  "test": "echo \"No tests yet\"",
   "homepage": "https://github.com/sirsjg/snippets#readme",
   "author": "sirsjg",
   "license": "SEE LICENSE IN LICENSE",
