@@ -1,0 +1,32 @@
+{
+  "name": "snippets",
+  "version": "1.0.0",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "LICENSE"
+  ],
+  "description": "Pretty snippets generator",
+  "keywords": [
+    "code",
+    "image",
+    "syntax-highlighting",
+    "screenshot",
+    "snippet"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirsjg/snippets.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sirsjg/snippets/issues"
+  },
+  "homepage": "https://github.com/sirsjg/snippets#readme",
+  "author": "sirsjg",
+  "license": "MIS",
+  "dependencies": {
+    "canvas": "^3.1.0",
+    "canvas-text": "^0.0.1",
+    "chromatism": "^3.0.0"
+  }
+}
